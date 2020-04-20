@@ -1,3 +1,9 @@
 This is my file created from master.
 Master line 2.
-Added new integration test.
+Added new integ test.
+
+My first commit. I added 2 lines.
+This is my second commit. New line. Also edit previous line.
+
+// Unit test
+This is my unit test.
