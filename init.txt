@@ -1,0 +1,2 @@
+This is my file created from master.
+Master line 2.
